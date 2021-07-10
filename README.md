@@ -1,13 +1,11 @@
-###
-run app
+### run app
 
-´´´
+```
 go run main.go
-´´´
+```
 
-###
-run evans
+### run evans
 
-´´´
+```
 evans -r repl -p=50052
-´´´
+```
